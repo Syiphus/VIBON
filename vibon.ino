@@ -3,6 +3,7 @@
 // Parte 1. Calibracao do SONAR
 // Codigo base (calibration.ino)
 // Carlos Vinhais, Out 2021
+// Editado por Diogo Moreira
 
 const int TRIG_PIN = 5;
 const int ECHO_PIN = 16;
